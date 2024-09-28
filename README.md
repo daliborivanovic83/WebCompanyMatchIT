@@ -30,8 +30,7 @@ All of them are grouped by product functionality.
 
 This test suite is designed to automate the testing of various functionalities of the Web Company App.
 
-**Below is the list of test cases used for automation.
-** Below is the list of test plans created for this Web app
+**Below is the list of test cases used for automation and the list of test plans created for this Web app.
 
 https://drive.google.com/drive/folders/1kahwa36rlUQohqzin2s4At5PNiCXUxEs?usp=drive_link
 
